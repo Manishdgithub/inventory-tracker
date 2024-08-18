@@ -3,7 +3,7 @@ from streamlit_option_menu import option_menu
 
 
 data_dashboard = st.Page(
-    "views/data_dashboard.py",
+    "data_dashboard.py",
     title="Data Dashboard",
     icon=":material/smart_toy:",
 )
